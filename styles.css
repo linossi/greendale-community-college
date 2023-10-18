@@ -4,6 +4,8 @@ header {
     background-color: #1c1c7f; /* Set your desired background color */
     color: #fff; /* Set the text color */
     padding: 5px; /* Add some padding for better appearance */
+    font-size:large;
+    font-family: 'Alumni Sans Collegiate One', sans-serif;
 }
 
 h1 {
