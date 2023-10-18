@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.rectangle {
+    display: inline-block;
+    padding: 20px;
+    background-color: #3498db;
+    color: #291db3;
+    text-decoration: none; /* Removes default link underline */
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.rectangle:hover {
+    background-color: #ffffff;
+}
