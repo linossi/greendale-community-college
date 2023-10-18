@@ -11,13 +11,13 @@ header {
     text-align: center;
 }
 
-.rhombus-container {
+{
     display: flex;
     justify-content: space-between;
     margin-top: 0; /* Updated margin-top value */
 }
 
-.rhombus {
+{
     width: 100px;
     height: 100px;
     background-color: #3498db;
@@ -30,14 +30,14 @@ header {
 
 
 /* Different colors for each rhombus */
-.rhombus:nth-child(1) {
+{
     background-color: #e74c3c;
 }
 
-.rhombus:nth-child(2) {
+{
     background-color: #2ecc71;
 }
 
-.rhombus:nth-child(3) {
+{
     background-color: #f39c12;
 }
