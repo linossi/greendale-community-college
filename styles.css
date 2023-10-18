@@ -10,34 +10,3 @@ header {
     padding: 20px;
     text-align: center;
 }
-
-{
-    display: flex;
-    justify-content: space-between;
-    margin-top: 0; /* Updated margin-top value */
-}
-
-{
-    width: 100px;
-    height: 100px;
-    background-color: #3498db;
-    position: relative;
-    transform: rotate(45deg);
-    margin: 10px 10px 0; /* Updated margin property */
-}
-
-/* ... other styles ... */
-
-
-/* Different colors for each rhombus */
-{
-    background-color: #e74c3c;
-}
-
-{
-    background-color: #2ecc71;
-}
-
-{
-    background-color: #f39c12;
-}
