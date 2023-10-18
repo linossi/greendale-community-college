@@ -3,14 +3,73 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Clickable Rectangle</title>
-    <link rel="stylesheet" href="styles.css">
+    <title>Rhombus Header</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Arial', sans-serif;
+        }
+
+        header {
+            background-color: #333;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .rhombus-container {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 20px;
+        }
+
+        .rhombus {
+            width: 100px;
+            height: 100px;
+            background-color: #3498db;
+            position: relative;
+            transform: rotate(45deg);
+            margin: 0 10px;
+        }
+
+        .rhombus a {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100%;
+            width: 100%;
+            text-decoration: none;
+            color: #fff;
+            transform: rotate(-45deg);
+        }
+
+        /* Different colors for each rhombus */
+        .rhombus:nth-child(1) {
+            background-color: #e74c3c;
+        }
+
+        .rhombus:nth-child(2) {
+            background-color: #2ecc71;
+        }
+
+        .rhombus:nth-child(3) {
+            background-color: #f39c12;
+        }
+    </style>
 </head>
 <body>
-
-    <div class="rectangle">
-        <a href="https://example.com">Go to Example.com</a>
-    </div>
-
+    <header>
+        <h1>Your Website</h1>
+        <div class="rhombus-container">
+            <div class="rhombus">
+                <a href="page1.html">Page 1</a>
+            </div>
+            <div class="rhombus">
+                <a href="page2.html">Page 2</a>
+            </div>
+            <div class="rhombus">
+                <a href="page3.html">Page 3</a>
+            </div>
+        </div>
+    </header>
 </body>
 </html>
