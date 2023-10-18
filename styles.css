@@ -1,1 +1,43 @@
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+}
 
+/* ... other styles ... */
+
+header {
+    background-color: #333;
+    padding: 20px;
+    text-align: center;
+}
+
+.rhombus-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0; /* Updated margin-top value */
+}
+
+.rhombus {
+    width: 100px;
+    height: 100px;
+    background-color: #3498db;
+    position: relative;
+    transform: rotate(45deg);
+    margin: 10px 10px 0; /* Updated margin property */
+}
+
+/* ... other styles ... */
+
+
+/* Different colors for each rhombus */
+.rhombus:nth-child(1) {
+    background-color: #e74c3c;
+}
+
+.rhombus:nth-child(2) {
+    background-color: #2ecc71;
+}
+
+.rhombus:nth-child(3) {
+    background-color: #f39c12;
+}
