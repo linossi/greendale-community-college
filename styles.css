@@ -18,27 +18,3 @@ nav ul {
     margin: 0;
     padding: 0;
 }
-
-nav ul li {
-    display: inline; /* Display list items horizontally */
-    margin-right: 15px; /* Add some space between list items */
-}
-
-nav a {
-    text-decoration: none; /* Remove underlines from links */
-    color: #ffffffd3; /* Set link text color */
-}
-.rectangle {
-    display: inline-block;
-    padding: 20px;
-    background-color: #3498db;
-    color: #fff;
-    text-decoration: none; /* Removes default link underline */
-    border-radius: 5px;
-    transition: background-color 0.3s ease;
-}
-
-.rectangle i {
-    margin-right: 10px; /* Add space between the icon and text */
-    font-size: 20px; /* Adjust the icon size as needed */
-}
