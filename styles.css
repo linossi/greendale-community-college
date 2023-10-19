@@ -38,9 +38,10 @@ nav a {
 }
 .sitatbox1 {
     border-style:solid;
-    height:500px;
-    width:80%;
-    flood-color: #373772;
+    border-color:rgb(45, 45, 107);
+    border: width 5px;
+    left:50%;
+    transform: translatex(-50%);
 
 
 }
