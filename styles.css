@@ -26,3 +26,6 @@ nav a {
     text-decoration: none; /* Remove underlines from links */
     color: #fff; /* Set link text color */
 }
+.beholder {
+    position: relative !important;
+}
