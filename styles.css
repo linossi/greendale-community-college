@@ -40,10 +40,7 @@ nav a {
     border-style:solid;
     border-color:rgb(45, 45, 107);
     border: width 5px;
-    left:50%;
     transform: translatex(-50%);
-
-
 }
 
 .tittel {
