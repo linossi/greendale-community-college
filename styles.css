@@ -8,13 +8,8 @@ header {
     font-family: 'Teko', sans-serif;
     letter-spacing: 2px;
     height: 300px;
-    z-index: -1;
     width: 85%;
-    margin-top: 50px;
-    border-radius: 25px;
     position: relative; 
-    left: 50%;
-    transform: translateX(-50%);
 }
 
 
@@ -40,11 +35,6 @@ nav a {
 }
 .kretskortbilde {
     height: 300px;
-    z-index: -1;
     width: 85%;
-    margin-top: 50px;
-    border-radius: 25px;
     position: relative; 
-    left: 50%;
-    transform: translateX(-50%);
 }
