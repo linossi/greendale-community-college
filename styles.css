@@ -36,10 +36,19 @@ nav a {
     height: 300px;
     width: 100%;
 }
+.sitatbox1 {
+    border-style:solid;
+    height:500px;
+    width:80%;
+    flood-color: #373772;
+
+
+}
+
 .tittel {
     font-family: 'Teko', sans-serif;
     font-size:x-large;
     color: #000000;
     letter-spacing: 2px;
     padding: left 10px;
-
+}
