@@ -35,3 +35,8 @@ nav a {
     height: 300px;
     width: 100%;
 }
+.tittel {
+    font-family: 'Teko', sans-serif;
+    font-size:medium;
+    color: #000000;
+    letter-spacing: 2px;
