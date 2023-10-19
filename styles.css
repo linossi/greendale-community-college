@@ -22,3 +22,7 @@ nav ul li {
     display: inline; /* Display list items horizontally */
     margin-right: 10px; /* Add some space between list items */
 }
+nav a {
+    text-decoration: none; /* Remove underlines from links */
+    color: #fff; /* Set link text color */
+}
