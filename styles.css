@@ -44,6 +44,7 @@ nav a {
     text-align: center;
     padding: 20px;
     justify-content: center;
+    width:70%;
 }
 
 .rounded-box p {
