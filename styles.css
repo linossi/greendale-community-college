@@ -43,6 +43,7 @@ nav a {
     border-radius: 15px;
     text-align: center;
     padding: 20px;
+    justify-content: center;
 }
 
 .rounded-box p {
