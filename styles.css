@@ -47,11 +47,11 @@ nav a {
     justify-content: center;
     font-size:xx-large;
     font-family: 'Teko', sans-serif;
-    color: #fff;
+    color: #ffffff;
 }
 
 .rounded-box p {
-    color: #fff; /*text*/
+    color: #ffffff; /*text*/
     font-size:large;
 }
 
