@@ -36,23 +36,6 @@ nav a {
     height: 300px;
     width: 100%;
 }
-.sitatbox1 {
-    border-style: hidden;
-    background-color:#1c1c7f;
-    border: width 5px;
-    border-radius: 15px;
-    text-align: center;
-    padding: 20px;
-    width:70%;
-    justify-content: center;
-    font-size:xx-large;
-    font-family: 'Teko', sans-serif;
-    color: #ffffff !important;
-}
-
-.rounded-box p {
-    color: #ffffff; /*text*/
-}
 
 .tittel {
     font-family: 'Teko', sans-serif;
@@ -90,3 +73,21 @@ html, body {
   .topp    { grid-area : t; }
   .venstre { grid-area : v; }
   .hoyre   { grid-area : h; }
+
+  .sitatbox1 {
+    border-style: hidden;
+    background-color:#1c1c7f;
+    border: width 5px;
+    border-radius: 15px;
+    text-align: center;
+    padding: 20px;
+    width:70%;
+    justify-content: center;
+    font-size:xx-large;
+    font-family: 'Teko', sans-serif;
+    color: #ffffff !important;
+}
+
+.rounded-box p {
+    color: #ffffff; /*text*/
+}
