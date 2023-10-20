@@ -43,13 +43,14 @@ nav a {
     border-radius: 15px;
     text-align: center;
     padding: 20px;
-    justify-content: center;
     width:70%;
+    justify-content: center;
 }
 
 .rounded-box p {
     color: #fff; /*text*/
-    font-size: 18px; 
+    font-size:large;
+    font-family: 'Teko', sans-serif;
 }
 
 .tittel {
