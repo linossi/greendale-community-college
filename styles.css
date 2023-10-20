@@ -40,7 +40,6 @@ nav a {
     border-style:solid;
     border-color:rgb(45, 45, 107);
     border: width 5px;
-    border-radius:5px;
     transform: translatex(-50%);
 }
 
