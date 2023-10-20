@@ -45,12 +45,13 @@ nav a {
     padding: 20px;
     width:70%;
     justify-content: center;
+    font-size:large;
+    font-family: 'Teko', sans-serif;
 }
 
 .rounded-box p {
     color: #fff; /*text*/
     font-size:large;
-    font-family: 'Teko', sans-serif;
 }
 
 .tittel {
