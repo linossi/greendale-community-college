@@ -77,6 +77,6 @@ nav a {
     background-color: #aac9c6;
     border: 1px solid black;
   }
-  .topp    { grid-area : t; }
-  .venstre { grid-area : v; }
-  .hoyre   { grid-area : h; }
+  .top    { grid-area : t; }
+  .left { grid-area : v; }
+  .right   { grid-area : h; }
