@@ -61,7 +61,7 @@ nav a {
     padding: left 10px;
 }
 
-#hoved {
+.hoved {
     width: 600px;
     height: 400px;
     display: grid;
@@ -73,7 +73,7 @@ nav a {
       "v . h h h"
       "v . h h h";
   }
-  #hoved > div {
+  .hoved > div {
     background-color: #aac9c6;
     border: 1px solid black;
   }
