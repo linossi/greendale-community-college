@@ -38,9 +38,17 @@ nav a {
 }
 .sitatbox1 {
     border-style:solid;
-    border-color:rgb(45, 45, 107);
+    background-color: #3437db;
     border: width 5px;
+    border-radius: 15px;
+    text-align: center;
+    padding: 20px;
     transform: translatex(-50%);
+}
+
+.rounded-box p {
+    color: #fff; /*text*/
+    font-size: 18px; 
 }
 
 .tittel {
