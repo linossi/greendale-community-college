@@ -137,20 +137,20 @@ nav a {
 }
 
 .sitatbox1 { 
-
-    justify-content: center; 
-    display: flex; 
-    border-style: hidden; 
-    background-color:#1c1c7f; 
-    border: width 5px; 
-    border-radius: 15px; 
-    text-align: center; 
-    padding: 20px; 
-    width:70%; 
-    justify-content: center; 
-    font-size:xx-large; 
-    font-family: 'Teko', sans-serif; 
-    color: #ffffff !important; 
+    display: flex; /* Add flex display to center horizontally */
+    justify-content: center;
+    border-style: hidden;
+    background-color: #1c1c7f;
+    border-width: 5px; /* Correct the border property */
+    border-radius: 15px;
+    text-align: center;
+    padding: 20px;
+    width: 70%;
+    font-size: xx-large;
+    font-family: 'Teko', sans-serif;
+    color: #ffffff !important;
+    margin: 0 auto; /* Center horizontally */
+    
 } 
 
  
