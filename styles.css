@@ -154,11 +154,23 @@ nav a {
     
 } 
 
- 
- 
-
 .rounded-box p { 
 
     color: #ffffff; /*text*/ 
 
 } 
+
+
+.container {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.image-wrapper {
+    display: flex-start;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 20px;
+    padding-right: 40px;
+
+}
