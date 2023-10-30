@@ -188,11 +188,10 @@ h2 {
 .image-container {
     display: flex-start;
     flex-direction:row;
-    margin-right:20px;
-    margin-left: 20px;
+    margin-right: 40px;
+    margin-left: 40px;
     font-size:larger;
     line-height: 1.7;
-    margin-left: 20px;
     text-indent: 50px;
 
     
