@@ -205,14 +205,6 @@ h2 {
     margin-left: 20px;
 }
 
-.line-2 {
-    display: flex-start;
-    flex-direction:row;
-    margin-right: 40px;
-    margin-left: 40px;
-    font-size:larger;
-    line-height: 1.7;
-}
 
 .image-2  {
     width: 320px;
