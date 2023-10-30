@@ -201,4 +201,8 @@ h2 {
 
 .titles-home {
     margin: left 20px;
+    font-size: xx-large;
+    font-family: 'Teko', sans-serif;
+    margin-bottom: 10px;
+    text-align:left;
 }
