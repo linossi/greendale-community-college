@@ -190,13 +190,20 @@ h2 {
     font-size:larger;
     line-height: 1.5;
     margin-left: 20px;
-    
+
     
 }
 
-.image {
+.image-1 {
     width: 400px;
     float:right;
+    padding-right:20px;
+    padding-left:20px;
+}
+
+.image-2  {
+    width: 400px;
+    float:left;
     padding-right:20px;
     padding-left:20px;
 }
