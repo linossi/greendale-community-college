@@ -174,3 +174,26 @@ nav a {
     padding-right: 40px;
 
 }
+
+h2 {
+    font-size: xx-large;
+    font-family: 'Teko', sans-serif;
+    margin-bottom: 10px;
+    text-align:left;
+}
+
+.image-container {
+    display: flex-start;
+    flex-direction:row;
+    margin-right:10px;
+    font-size:larger;
+    line-height: 1.5;
+    
+}
+
+.image {
+    width: 200px;
+    float:left;
+    padding-right:20px;
+    padding-left:20px;
+}
