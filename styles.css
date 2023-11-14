@@ -40,17 +40,6 @@ body {
   float: right;
 }
 
-@media screen and (max-width: 500px) {
-  .header a {
-    float: none;
-    display: block;
-    text-align: left;
-  }
-  
-  .header-right {
-    float: none;
-  }
-}
 
 .straight-line {
     border: none; /* Remove the default border */
@@ -109,16 +98,6 @@ nav a {
   /* Add a background color on mouse-over */
   .navbar a:hover {
     background-color: #000;
-  }
-  
-  /* Add responsiveness - on screens less than 500px, make the navigation links appear on top of each other, instead of next to each other */
-  @media screen and (max-width: 500px) {
-    .navbar a {
-      float: none;
-      display: block;
-      width: 100%;
-      text-align: left; /* If you want the text to be left-aligned on small screens */
-    }
   }
 
 
@@ -212,6 +191,15 @@ h2 {
     padding-right:20px;
     padding-left:20px;
     margin-left: 20px;
+
+}
+
+.image-3 {
+  width: 400px;
+  float:left;
+  padding-right:20px;
+  padding-left:20px;
+  margin-left: 20px;
 
 }
 
