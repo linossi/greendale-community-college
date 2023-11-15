@@ -316,7 +316,7 @@ h2 {
   }
 
   .row {
-    display: flex;
+    display: center;
   }
   
   .row img {
