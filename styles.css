@@ -309,23 +309,4 @@ h2 {
     line-height: 1.7;
   }
 
-  .column {
-    flex: 33.33%;
-    padding: 5px;
-    text-align: center;
-  }
-
-  .row {
-    display: flex;
-    padding-left:40px;
-    padding-right:40px;
-  }
-  
-  .row img {
-    width: 100%;
-    height: auto;
-    display: block;
-    padding-left:20px;
-    padding-right:20px;
-  }
   
