@@ -317,6 +317,8 @@ h2 {
 
   .row {
     display: flex;
+    padding-left:20px;
+    padding-right:20px;
   }
   
   .row img {
