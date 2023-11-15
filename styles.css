@@ -314,6 +314,10 @@ h2 {
     padding: 5px;
     text-align: center;
   }
+
+  .row {
+    display: flex;
+  }
   
   .row img {
     width: 100%;
