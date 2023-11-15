@@ -297,3 +297,7 @@ h2 {
     margin-bottom:2px;
     padding-left:10px;
   }
+
+  .bold{
+    font-weight: bold;
+  }
