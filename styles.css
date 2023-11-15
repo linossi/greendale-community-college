@@ -309,4 +309,7 @@ h2 {
     line-height: 1.7;
   }
 
-  
+  .button a {
+    text-decoration: none;
+    color: #1c1c7f;
+  }
